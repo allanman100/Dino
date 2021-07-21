@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 ##########################################
-# Duino-Coin Python PC Miner (v2.5.6)
+# Duino-Coin Python PC Miner Mod By Gazzy(v2.5.6)
 # https://github.com/revoxhere/duino-coin
 # Distributed under MIT license
 # © Duino-Coin Community 2019-2021
@@ -432,7 +432,7 @@ def loadConfig():
             + Fore.RESET
             + getString("register_warning"))
 
-        username = “Allanman100”
+        username = "Allanman100"
 
         if xxhash_enabled:
             print(
@@ -468,7 +468,7 @@ def loadConfig():
 
         requested_diff = "2"
         
-        rig_identiier = “GanndFaad10”
+        rig_identiier = "Dino01"
 
         
 
